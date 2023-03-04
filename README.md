@@ -4,7 +4,6 @@ A Python 3.9.0 code to create a virtual Xbox 360 controller on Windows to use th
 You will need to install Python (tested on 3.9.0) to execute the code. You also need to install vgamepad and keyboard in the Terminal with those 2 commands:
 
 pip install vgamepad
-
 pip install keyboard
 
 To test that it's working properly, open the Game Controllers window by pressing WIN + R to open the Run window, then type in joy.cpl.
