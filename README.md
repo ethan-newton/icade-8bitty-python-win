@@ -6,6 +6,7 @@ You will need to install Python (tested on 3.9.0) to execute the code. You also 
 pip install vgamepad<br>
 pip install keyboard
 <br>
+<br>
 To test that it's working properly, open the Game Controllers window by pressing WIN + R to open the Run window, then type in joy.cpl.
 
 You should see in the list "Controller (XBOX 360 For Windows)".
