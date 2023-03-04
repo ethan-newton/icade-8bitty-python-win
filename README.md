@@ -9,3 +9,5 @@ pip install keyboard
 To test that it's working properly, open the Game Controllers window by pressing WIN + R to open the Run window, then type in joy.cpl.
 
 You should see in the list "Controller (XBOX 360 For Windows)".
+
+*Project done with the help of ChatGPT
